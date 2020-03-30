@@ -1,4 +1,4 @@
-#print ("Hello world!")
+##print ("Hello world!")
 
 n = input("Пожалуйста введите любое число: ")
 a = str(n + n)

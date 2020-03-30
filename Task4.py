@@ -1,4 +1,4 @@
-#print("Hello world!")
+##print("Hello world!")
 
 i = int(input("Пожалуйста введите любое положительное число: "))
 x = 0

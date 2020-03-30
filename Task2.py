@@ -1,4 +1,4 @@
-#print ("Hello world!")
+##print ("Hello world!")
 
 seconds = int(input("Пожалуйста, введите время в секундах: "))
 hour = seconds // 3600
